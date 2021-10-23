@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi There <img src="https://github.com/RatulAlMamun/RatulAlMamun/blob/main/assets/wave.gif" width="40px">
+Thanks 💙 For Being A Valuable Visitor of My Profile Among <img src="https://profile-counter.glitch.me/RatulAlMamun/count.svg" title="free hit counter" alt="free hit counter">
+
+Hi, **I'm Md Abdullah Al Mamun (Ratul)**, a passionate self-taught full stack web developer from **Bangladesh**. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and knowledge sharing happened through open-source.
+
+![GitHub User's stars](https://img.shields.io/github/stars/RatulAlMamun?label=Github%20Stars&style=badge)
+<!--
 
 # <h1 align="center">Hi, I'm <a href="https://github.com/RatulAlMamun">Ratul<a></h1>
  
